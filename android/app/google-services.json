@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "588606011738",
+    "project_id": "lologin-37454",
+    "storage_bucket": "lologin-37454.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588606011738:android:404c071ae78016cbc15b63",
+        "android_client_info": {
+          "package_name": "com.example.lologin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "588606011738-l7kue1eu5vk1ipquq9u327idjut08pfc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC13_klahva9Go9i0cOvj_Yj_dNwEP_Ieo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "588606011738-l7kue1eu5vk1ipquq9u327idjut08pfc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
