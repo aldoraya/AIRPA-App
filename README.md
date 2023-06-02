@@ -1,16 +1,39 @@
 # AIRPA App
 
-A new Flutter project.
+AIRPA is an android demo application for leasing buildings in the Bekasi and Jakarta areas. It provides features such as **choose a building**, **do and reserve a building**. It provides solutions for building bookers and tenants. It provides a complete list of information about the building: building name, description, location, and price.
+   
+**Packages we are using:**
 
-## Getting Started
+-   smooth_page_indicator: [link](https://pub.dev/packages/smooth_page_indicator)
+-   provider: [link](https://pub.dev/packages/provider)
+-   font_awesome_flutter: [link](https://pub.dev/packages/font_awesome_flutter)
+-   google_fonts: [link](https://pub.dev/packages/google_fonts)
+-   shared_preferences: [link](https://pub.dev/packages/shared_preferences)
 
-This project is a starting point for a Flutter application.
+## Screens it contains:
 
-A few resources to get you started if this is your first Flutter project:
+=> Splash Screen
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+=> Introduction Screen
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+=> Sign Up Screen
+
+=> Login Screen
+
+=> explore Screen
+
+=> Reservation Screen
+
+=> Profile Screen
+
+=> Settings Screen
+
+## Photos
+![Preview](./mockup/splash-mobile.png)
+![Preview](./mockup/introduction-1.png)
+![Preview](./mockup/signup.png)
+![Preview](./mockup/login.png)
+![Preview](./mockup/explore-mobile.png)
+![Preview](./mockup/reservation-mobile.png)
+![Preview](./mockup/profile-mobile.png)
+![Preview](./mockup/settings-mobile.png)
